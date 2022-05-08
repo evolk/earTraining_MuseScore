@@ -17,5 +17,8 @@ def create_note_range():
     full_range.append(("C", 6))
     return full_range
     
+def add_sharp():
+    # <alter>1</alter>
+    pass
 
 print (create_note_range())

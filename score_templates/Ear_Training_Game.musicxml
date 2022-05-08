@@ -8,7 +8,7 @@
     <rights>EVV</rights>
     <encoding>
       <software>MuseScore 3.4.2</software>
-      <encoding-date>2022-05-07</encoding-date>
+      <encoding-date>2022-05-08</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -63,12 +63,12 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="113.75">
+    <measure number="1" width="120.94">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>170.00</top-system-distance>
           </system-layout>
@@ -99,49 +99,354 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="2" width="56.58">
+    <measure number="2" width="63.77">
       <note default-x="13.32" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
           </pitch>
         <duration>4</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>whole</type>
-        <notations>
-          <tied type="start"/>
-          </notations>
         </note>
       </measure>
-    <measure number="3" width="62.84">
-      <note default-x="10.36" default-y="-20.00">
+    <measure number="3" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
           </pitch>
-        <duration>2</duration>
-        <tie type="stop"/>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>half</type>
-        <stem>down</stem>
-        <notations>
-          <tied type="stop"/>
-          </notations>
-        </note>
-      <note>
-        <rest/>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         </note>
       </measure>
-    <measure number="4" width="56.29">
+    <measure number="4" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="5" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="6" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="7" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="8" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="9" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="10" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="11" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="12" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="13" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="14" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="15" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="16" width="63.77">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="17" width="105.97">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>150.00</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="59.77" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="18" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="19" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="20" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="21" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="22" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="23" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="24" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="25" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="26" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="27" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="28" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="29" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="30" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="31" width="64.79">
+      <note default-x="13.32" default-y="-20.00">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      </measure>
+    <measure number="32" width="64.49">
       <note>
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
       </measure>
     </part>
   </score-partwise>
