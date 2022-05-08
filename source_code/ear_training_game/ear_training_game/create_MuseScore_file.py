@@ -52,4 +52,4 @@ def create_musicxml_file(game_template):
     new_game.write(filename)
 
 if __name__ == "__main__":
-    create_musicxml_file("./score_templates/Ear_Training_Game.musicxml")
+    create_musicxml_file("Ear_Training_Game.musicxml")
