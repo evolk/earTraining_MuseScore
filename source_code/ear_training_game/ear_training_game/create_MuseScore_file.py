@@ -49,7 +49,7 @@ def create_musicxml_file(game_template):
     current_time = time.strftime("%H_%M_%S", t)
     
     filename = "new_game_"+str(today)+"_"+str(current_time)+".musicxml"
-    new_game.write(filename)
+    new_game.write("./generated_games/"+filename)
 
 if __name__ == "__main__":
     create_musicxml_file("Ear_Training_Game.musicxml")
