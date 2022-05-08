@@ -1,4 +1,5 @@
 from xml.etree import cElementTree as ET
+from datetime import date
 import random
 import time
 
@@ -42,10 +43,12 @@ def update_file(xml_file):
 #create a new game file with "new_game"
 def create_musicxml_file(game_template):
     new_game = update_file(game_template)
-
+    
+    today = date.today()
     t = time.localtime()
     current_time = time.strftime("%H_%M_%S", t)
-    filename = "new_game_"+str(current_time)+".musicxml"
+    
+    filename = "new_game_"+str(today)+"_"+str(current_time)+".musicxml"
     new_game.write(filename)
 
 if __name__ == "__main__":
